@@ -1,0 +1,11 @@
+docs/source/_static/user_guides_notebooks/transition_graph.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/clusters.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/cohorts.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/dataprocessors.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/quick_start.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/step_matrix.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/step_sankey.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/eventstream.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/funnel.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/preprocessing_graph.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/source/_static/user_guides_notebooks/stattests.ipynb filter=lfs diff=lfs merge=lfs -text
